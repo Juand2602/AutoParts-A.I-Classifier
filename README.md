@@ -6,12 +6,12 @@
 
 **Objetivo: Desarrollar un modelo preciso que clasifique diferentes tipos de repuestos para vehículos utilizando técnicas de deep learning, optimizando la gestión y la optimización del inventario automotriz.**
 
-- Dataset: En este repositorio 
+- Dataset: Se creó el dataset para 10 clases (10 tipos de repuestos) con aproxmiadamente 150 imagenes para cada clase. Está alojando en este drive (https://drive.google.com/drive/folders/1ky12NihkiJ1iWBF6BLBNk-vmStUB8Zul?usp=drive_link)
 
-- Modelos usados: 
+- Modelos usados: CNN, VGG16, VGG19.
 
 **Enlaces:**
 - Enlace del notebook:
-- Enlace del Video: 
+- Enlace del video: 
 - Enlace del repositorio: 
 - Diapositivas:
