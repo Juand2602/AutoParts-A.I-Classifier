@@ -11,7 +11,7 @@
 - Modelos usados: CNN, VGG16, VGG19.
 
 **Enlaces:**
-- Enlace del notebook:
+- Enlace del notebook: https://colab.research.google.com/drive/1KObxJPYchMCvquJEtx0_eNaSFDNeJaqm?usp=sharing
 - Enlace del video: 
 - Enlace del repositorio: 
 - Diapositivas:
