@@ -14,4 +14,4 @@
 - Enlace del notebook: https://colab.research.google.com/drive/1KObxJPYchMCvquJEtx0_eNaSFDNeJaqm?usp=sharing
 - Enlace del video: https://youtu.be/aMb4Huq4FQk 
 - Enlace del repositorio: https://github.com/Juand2602/AutoParts-A.I-Classifier.git
-- Diapositivas: ![] (https://github.com/Juand2602/AutoParts-A.I-Classifier/blob/main/AutoParts%20AI%20Predictor.pdf)
+- Diapositivas:(https://github.com/Juand2602/AutoParts-A.I-Classifier/blob/main/AutoParts%20AI%20Predictor.pdf)
