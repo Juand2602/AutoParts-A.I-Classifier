@@ -12,6 +12,6 @@
 
 **Enlaces:**
 - Enlace del notebook: https://colab.research.google.com/drive/1KObxJPYchMCvquJEtx0_eNaSFDNeJaqm?usp=sharing
-- Enlace del video: 
-- Enlace del repositorio: 
-- Diapositivas:
+- Enlace del video: https://youtu.be/aMb4Huq4FQk 
+- Enlace del repositorio: https://github.com/Juand2602/AutoParts-A.I-Classifier.git
+- Diapositivas: ![]
